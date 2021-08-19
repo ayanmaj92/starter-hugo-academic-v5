@@ -43,3 +43,4 @@ design:
 - Awarded scholarship for fee waiver to attend the [Nordic Probabilistic AI Summer School (ProbAI)](https://probabilistic.ai/) (*June 2021*). 
 - Invited to attend Microsoft Research conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (*July 2020*).
 - Selected for research assistantship at the Max Planck Institute for Software Systems (*October 2019*).
+- Won Spot Award and Insta Award at [Infosys Ltd.](https://www.infosys.com/) for outstanding performance and contribution to the project.
