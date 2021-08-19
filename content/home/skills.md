@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 5+ years experience in coding
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Python
+- description: Practical and research experience
+  icon: brain
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: ML/AI
+- description: Coursework, research projects
+  icon: balance-scale
   icon_pack: fas
-  name: Photography
+  name: Fair/Explainable/Robust ML
+- icon: file-image
+  icon_pack: fas
+  name: Vision/NLP
+  description: "Experience in coursework and applied research projects"
+- icon : "chart-pie"
+  icon_pack : "fas"
+  name : "Analytics & Visualization"
+  description : "Experience in performing basic data analysis on large datasets"
+- icon : "code"
+  icon_pack : "fas"
+  name : "Coding"
+  description : "Extensive experience in working on industrial and academic projects"
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

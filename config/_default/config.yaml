@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Ayan Majumdar # Website name
+baseurl: '/' # Website URL
+copyright: '© {2021} Ayan Majumdar' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -24,6 +24,29 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    # Your widget's GitHub URL (replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name)
+    - path: github.com/ayanmaj92/wowchemy-widget-certificates
+
+############################
+## CACHES
+############################
+
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: 0
+  getcsv:
+    dir: :cacheDir/:project
+    maxAge: 0
+  getjson:
+    dir: :cacheDir/:project
+    maxAge: 0
+  images:
+    dir: :resourceDir/_gen
+    maxAge: 0
+  modules:
+    dir: :cacheDir/modules
+    maxAge: 0
 
 ############################
 ## ADVANCED

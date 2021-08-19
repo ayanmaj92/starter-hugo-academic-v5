@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: 1950s
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
@@ -15,45 +15,44 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Personal website showcasing academic profile.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ayanm@mpi-sws.org
+phone:
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Room 538 MPI-SWS Campus E1 5
+  city: Saarbrücken
+  region: Saarland
+  postcode: '66123'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '49.257691'
+  longitude: '7.046207'
+directions:
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/ayanmaj1992'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: 'https://join.skype.com/invite/aOTQEvkYKwYV'
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Connect
+    link: 'https://www.linkedin.com/in/ayan-92/'
+  - icon: github
+    icon_pack: fab
+    name: Explore
+    link: 'https://github.com/ayanmaj92/'
+
 
 # Site header
 
@@ -70,7 +69,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: de
 
 # Site features
 
@@ -141,11 +140,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 16
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-176953995-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
