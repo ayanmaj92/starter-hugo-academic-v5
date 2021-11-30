@@ -8,6 +8,7 @@ github.com/ayanmaj92/wowchemy-widget-certificates v0.0.0-20210819082136-8decf547
 github.com/ayanmaj92/wowchemy-widget-certificates v0.0.0-20210819082136-8decf5470b4b/go.mod h1:sHTM8/OzRR2YQry0cYluBgkEm68eyDI1CpNeV9wjrmk=
 github.com/ayanmaj92/wowchemy-widget-certificates v0.0.0-20210819093020-d3af2bec8f4a h1:uFkAg/cTFA38O3M8Kb1I4Imbq2dHHzOpTklJTP6bRec=
 github.com/ayanmaj92/wowchemy-widget-certificates v0.0.0-20210819093020-d3af2bec8f4a/go.mod h1:sHTM8/OzRR2YQry0cYluBgkEm68eyDI1CpNeV9wjrmk=
+github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0 h1:lGfJL+IslLK+LbUivHVFO+P9/Op4mK4zb3SlKiORKGk=
 github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0/go.mod h1:akNBhhT0UAOXSREplKkLe2wyHeo51qm6f+vqNkQkcmE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210811091031-81345fad46b5 h1:/diHD9slElL+EQnfhUs6XtCxRTeostlC5wIAtCOXbe4=
