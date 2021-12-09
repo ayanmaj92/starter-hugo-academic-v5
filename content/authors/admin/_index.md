@@ -51,9 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ayanmaj1992
-#- icon: google-scholar
-#icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=HeQLWA4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ayanmaj92
