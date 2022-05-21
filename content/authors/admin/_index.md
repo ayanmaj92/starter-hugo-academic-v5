@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am fortunate to be advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
+I am a second-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am fortunate to be advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
 
 I am broadly interested in research topics that encompass machine learning and its applications in consequential decision-making and high-stakes scenarios. I mostly focus on the aspects of fairness, interpretability and robustness of these applications.
 
