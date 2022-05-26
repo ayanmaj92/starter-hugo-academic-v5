@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="overflow: auto; height:200pt; width:100%;">
+<div style="overflow: auto; height:130pt; width:100%;">
 
 - Check out our latest [paper](https://arxiv.org/abs/2205.04790) accepted at ACM FAccT, 2022!
 
