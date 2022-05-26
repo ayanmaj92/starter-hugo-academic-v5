@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 42
 
 title: Recent Publications
 subtitle: ''

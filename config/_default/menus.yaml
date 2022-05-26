@@ -13,11 +13,11 @@ main:
   - name: Education
     url: '#education'
     weight: 20
-  - name: Experience
-    url: '#experience'
-    weight: 25
   - name: Publication
     url: '#publications'
+    weight: 25
+  - name: Experience
+    url: '#experience'
     weight: 27
   - name: Projects
     url: '#projects'

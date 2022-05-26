@@ -67,12 +67,12 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:200pt; width:100%;">
 
+- Check out our latest [paper](https://arxiv.org/abs/2205.04790) accepted at ACM FAccT, 2022!
+
 - Attended the [ELLIS Workshop on Causethical ML](https://sites.google.com/view/ellis-causethical-ml-workshop/) (*July 2021*)
 
 - Attended the [ELLIS Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop/about) (*March 2021*).
 
 - Attended the [Max Planck Intersectional Symposium on Computing and Society](https://www.cis.mpg.de/events/) (*January 2021*).
-
-- Attended  Microsoft Research conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (*July 2020*).
 
 </div>

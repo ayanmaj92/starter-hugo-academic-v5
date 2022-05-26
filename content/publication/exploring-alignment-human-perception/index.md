@@ -32,7 +32,7 @@ abstract: "We argue that a valuable perspective on when a model learns \textit{g
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [deep learning]
 categories: []
 featured: false
 
