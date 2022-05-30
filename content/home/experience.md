@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mpi-sws.org/"
   location = "Saarbrücken, DE"
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """ Research student working in the topics of fairness in generative models, with a particular focus on variational autoencoders.
    * Worked on estimating, quantifying and mitigating bias in variational generative models.
    * Additionally explored the potential of using such models in a range of applications: anomaly detection, adversarial example detection and defense, classifier calibration.
