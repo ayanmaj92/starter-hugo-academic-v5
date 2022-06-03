@@ -9,6 +9,10 @@ authors:
 - Krishna P. Gummadi
 - Isabel Valera
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: 2022-05-26T15:48:21+01:00
 doi: "https://doi.org/10.1145/3531146.3533199"
 
@@ -64,7 +68,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- fairall
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
