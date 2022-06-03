@@ -4,7 +4,7 @@
 title: "Exploring Alignment of Representations with Human Perception"
 authors: 
 - Vedant Nanda
-- Ayan Majumdar
+- admin
 - Camila Kolling
 - John P. Dickerson
 - Krishna P. Gummadi

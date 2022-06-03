@@ -74,6 +74,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am a second-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am fortunate to be advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   

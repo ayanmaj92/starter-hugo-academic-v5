@@ -4,7 +4,7 @@
 title: "Don't Throw it Away! The Utility of Unlabeled Data in Fair Decision Making"
 authors: 
 - Miriam Rateike
-- Ayan Majumdar
+- admin
 - Olga Mineeva
 - Krishna P. Gummadi
 - Isabel Valera
