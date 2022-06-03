@@ -49,7 +49,7 @@ image:
 url_slides: master-thesis_presentation.pdf
 
 url_code:
-url_pdf: "talk/master-seminar/thesis_cs_msc_majumdar_ayan.pdf"
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
