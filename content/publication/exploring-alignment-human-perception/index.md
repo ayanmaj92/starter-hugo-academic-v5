@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Exploring Alignment of Representations with Human Perception"
+title: "Exploring Representational Alignment with Human Perception Using Identically Represented Inputs"
 authors: 
 - Vedant Nanda
 - admin
@@ -11,11 +11,11 @@ authors:
 - Bradley C. Love
 - Adrian Weller
 
-date: 2021-11-30T15:48:21+01:00
+date: 2022-05-30T15:48:21+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-11-30T15:48:21+01:00
+publishDate: 2022-05-30T15:48:21+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication_types: ["3"]
 publication: "CoRR:2111.14726"
 publication_short: ""
 
-abstract: "We argue that a valuable perspective on when a model learns \textit{good} representations is that inputs that are mapped to similar representations by the model should be perceived similarly by humans. We use \textit{representation inversion} to generate multiple inputs that map to the same model representation, then quantify the perceptual similarity of these inputs via human surveys. Our approach yields a measure of the extent to which a model is aligned with human perception. Using this measure of alignment, we evaluate models trained with various learning paradigms (\eg~supervised and self-supervised learning) and different training losses (standard and robust training). Our results suggest that the alignment of representations with human perception provides useful additional insights into the qualities of a model. For example, we find that alignment with human perception can be used as a measure of trust in a model's prediction on inputs where different models have conflicting outputs. We also find that various properties of a model like its architecture, training paradigm, training loss, and data augmentation play a significant role in learning representations that are aligned with human perception."
+abstract: "We contribute to the study of the quality of learned representations. In many domains, an important evaluation criterion for safe and trustworthy deep learning is how well the invariances captured by representations of deep neural networks (DNNs) are shared with humans. We identify challenges in measuring these invariances. Prior works used gradient-based methods to generate identically represented inputs (IRIs), i.e., inputs which have similar representations (on a given layer) of a neural network. If these IRIs look similar to humans then a neural network's learned invariances are said to align with human perception. However, we show that prior studies on the alignment of invariances between DNNs and humans are `biased' by the specific loss function used to generate IRIs. We show how different loss functions can lead to different takeaways about a model's shared invariances with humans. We show that under an adversarial IRI generation process all models appear to have very little shared invariance with humans. We conduct an in-depth investigation of how different components of the deep learning pipeline contribute to learning models that have good alignment with human's invariances. We find that architectures with residual connections trained using a self-supervised contrastive loss with \ell_p ball adversarial data augmentation tend to learn the most human-like invariances."
 
 # Summary. An optional shortened abstract.
 summary: ""
