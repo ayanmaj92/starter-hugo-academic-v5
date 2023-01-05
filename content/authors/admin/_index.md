@@ -24,9 +24,8 @@ interests:
 - Machine Learning
 - Fairness
 - Causality
-- Interpretability
-- Robustness
-- Natural Language Processing
+- Accountability
+- Trustworthiness 
 
 education:
   courses:
@@ -79,8 +78,8 @@ user_groups:
 highlight_name: true
 ---
 
-I am a second-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am fortunate to be advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
+I am a second-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am jointly advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
 
-I am broadly interested in research topics that encompass machine learning and its applications in consequential decision-making and high-stakes scenarios. I mostly focus on the aspects of fairness, interpretability and robustness of these applications.
+My research broadly encompasses the study of fairness, trustworthiness, accountability and long-term effects of machine learning systems in the context of consequential decision making.
 
 I completed my Master's thesis titled "On Computing Counterfactuals for Causal Fairness" with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group, supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). I have also been fortunate to have collaborated with several incredible mentors: [Preethi Lahoti](https://people.mpi-inf.mpg.de/~plahoti/) ([Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems)), Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) ([Spoken Language Systems, Saarland University](https://www.lsv.uni-saarland.de/)), Prof. [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) ([University of Cambridge](http://mlg.eng.cam.ac.uk/)).
