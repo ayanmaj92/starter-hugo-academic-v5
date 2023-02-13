@@ -71,11 +71,4 @@ subtitle = ""
 - Check out our latest [work](https://arxiv.org/abs/2111.14726) on neural representations and human alignment at AAAI 2023!
 - Volunteered as reviewer at NeurIPS 2022.
 - Check out our [paper](https://arxiv.org/abs/2205.04790) on fair decision making accepted at ACM FAccT, 2022!
-
-# - Attended the [ELLIS Workshop on Causethical ML](https://sites.google.com/view/ellis-causethical-ml-workshop/) (*July 2021*)
-
-# - Attended the [ELLIS Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop/about) (*March 2021*).
-
-# - Attended the [Max Planck Intersectional Symposium on Computing and Society](https://www.cis.mpg.de/events/) (*January 2021*).
-
 </div>
