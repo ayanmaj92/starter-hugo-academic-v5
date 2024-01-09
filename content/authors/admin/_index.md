@@ -18,14 +18,15 @@ organizations:
   url: "https://www.mpi-sws.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly encompass applications of machine learning in decision-making and high-stakes scenarios while ensuring the fairness, robustness and explainability of such systems. 
+bio: My research interests broadly encompass applications of machine learning in decision-making and high-stakes scenarios while ensuring the fairness, explainability and robustness of such systems. 
 
 interests:
 - Machine Learning
 - Fairness
+- Explainability
 - Causality
 - Accountability
-- Trustworthiness 
+ 
 
 education:
   courses:
@@ -78,8 +79,8 @@ user_groups:
 highlight_name: true
 ---
 
-I am a second-year PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am jointly advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
+I am a Ph.D. student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://machinelearning.uni-saarland.de), Germany. I am jointly advised by Prof. [Isabel Valera](https://ivaleram.github.io/) and Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/).   
 
-My research broadly encompasses the study of fairness, trustworthiness, accountability and long-term effects of machine learning systems in the context of consequential decision making.
+My research broadly encompasses the bridging the practicality gap of responsible AI/ML, focusing on methods that improve the fairness, explainability, accountability and long-term effects of machine learning systems in the context of consequential societal decision-making tasks.
 
 I completed my Master's thesis titled "On Computing Counterfactuals for Causal Fairness" with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group, supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). I have also been fortunate to have collaborated with several incredible mentors: [Preethi Lahoti](https://people.mpi-inf.mpg.de/~plahoti/) ([Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems)), Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) ([Spoken Language Systems, Saarland University](https://www.lsv.uni-saarland.de/)), Prof. [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) ([University of Cambridge](http://mlg.eng.cam.ac.uk/)).
