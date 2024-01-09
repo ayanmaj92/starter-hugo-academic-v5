@@ -67,7 +67,7 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:130pt; width:100%;">
 
-- Acting as reviewer at ICML 2023.
+- Program committee member at ICML 2023, NeurIPS 2023, EWAF 2023, FAccT 2024.
 - Check out our latest [work](https://arxiv.org/abs/2111.14726) on neural representations and human alignment at AAAI 2023!
 - Volunteered as reviewer at NeurIPS 2022.
 - Check out our [paper](https://arxiv.org/abs/2205.04790) on fair decision making accepted at ACM FAccT, 2022!
