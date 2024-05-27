@@ -67,7 +67,7 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:130pt; width:100%;">
 
-- Our latest [work](static/files/CARMA_camera_ready.pdf) on scaling up the generation of causal algorithmic recourse recommendations was accepted at ACM FAccT 2024!
+- Our latest [work](files/CARMA_camera_ready.pdf) on scaling up the generation of causal algorithmic recourse recommendations was accepted at ACM FAccT 2024!
 - Program committee member at ICML 2023, NeurIPS 2023, EWAF 2023, FAccT 2024, and JMLR!
 - Check out our latest [work](https://arxiv.org/abs/2111.14726) on neural network representations and human alignment at AAAI 2023!
 - Check out our [paper](https://arxiv.org/abs/2205.04790) on fair decision making accepted at ACM FAccT, 2022!
