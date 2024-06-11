@@ -1,0 +1,17 @@
+@inproceedings{carma,
+author = {Majumdar, Ayan and Valera, Isabel},
+title = {CARMA: A practical framework to generate recommendations for causal algorithmic recourse at scale},
+year = {2024},
+isbn = {9798400704505},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3630106.3659003},
+doi = {10.1145/3630106.3659003},
+abstract = {Algorithms are increasingly used to automate large-scale decision-making processes, e.g., online platforms that make instant decisions in lending, hiring, and education. When such automated systems yield unfavorable decisions, it is imperative to allow for recourse by accompanying the instantaneous negative decisions with recommendations that can help affected individuals to overturn them. However, the practical challenges of providing algorithmic recourse in large-scale settings are not negligible: giving recourse recommendations that are actionable requires not only causal knowledge of the relationships between applicant features but also solving a complex combinatorial optimization problem for each rejected applicant. In this work, we introduce CARMA, a novel framework to generate causal recourse recommendations at scale. For practical settings with limited causal information, CARMA leverages pre-trained state-of-the-art causal generative models to find recourse recommendations. More importantly, CARMA addresses the scalability of finding these recommendations by casting the complex recourse optimization problem as a prediction task. By training a novel neural-network-based framework, CARMA efficiently solves the prediction task without requiring supervision for optimal recourse actions. Our extensive evaluations show that post-training, running inference on CARMA reliably amortizes causal recourse, generating optimal and instantaneous recommendations. CARMA exhibits flexibility, as its optimization is versatile with respect to the algorithmic decision-making and pre-trained causal generative models, provided their differentiability is ensured. Furthermore, we showcase CARMA in a case study, illustrating its ability to tailor causal recourse recommendations by readily incorporating population-level feature preferences based on factors such as difficulty or time needed.},
+booktitle = {Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {1745–1762},
+numpages = {18},
+keywords = {Causality, Counterfactual Explanations, Neural Networks, Recourse},
+location = {<conf-loc>, <city>Rio de Janeiro</city>, <country>Brazil</country>, </conf-loc>},
+series = {FAccT '24}
+}
