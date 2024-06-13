@@ -70,6 +70,4 @@ subtitle = ""
 - We will be presenting CARMA as a poster at the [European Workshop on Algorithmic Fairness](https://2024.ewaf.org/home) in Mainz!
 - Our latest [work](https://doi.org/https://doi.org/10.1145/3630106.3659003) on scaling up the generation of causal algorithmic recourse recommendations was accepted at ACM FAccT 2024!
 - Recently reviewed for ICML 2024, ICLR 2024, FAccT 2024, and JMLR!
-- Check out our latest [work](https://arxiv.org/abs/2111.14726) on neural network representations and human alignment at AAAI 2023!
-- Check out our [paper](https://arxiv.org/abs/2205.04790) on fair decision making accepted at ACM FAccT, 2022!
 </div>
