@@ -47,3 +47,15 @@ Hence, for large-scale automated systems, e.g., online applications that provide
 In this work, we introduce CARMA, a practical framework that i) incorporates the power of the latest causal generative models with ii) neural networks that solve a novel amortized predictive formulation of the separate combinatorial problems.
 Using this practical approach, we show that CARMA can help scale up causal recourse to enable instantaneous, actionable, and optimal recourse recommendation generation.
 
+## A. Limitations of existing causal recourse techniques
+For each individual with features $\mathbf{x}^F$ requesting recourse, causal algorithmic recourse finds the optimal action $\boldsymbol{a}^*$ solves the following optimization problem 
+$$
+\boldsymbol{a}^* \in \underset{\boldsymbol{a} \in \mathcal{A}\left(\mathbf{x}^{\mathrm{F}}\right)}{\arg \min } \operatorname{cost}\left(\boldsymbol{a} ; \mathbf{x}^{\mathrm{F}}\right) \text { subj.to } h\left(\mathbf{x}^{\mathrm{CF}}\left(\boldsymbol{a}, \mathbf{x}^{\mathrm{F}}\right)\right)=1
+$$
+## B. Amortizing causal recourse optimization with CARMA
+
+## C. CARMA provides recourse that is optimal and instant
+
+## D. CARMA is flexible in using different generative models
+
+## D. CARMA can incorporate population-level feature preferences

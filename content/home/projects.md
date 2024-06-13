@@ -27,12 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
   - name: Fairness
     tag: Fairness
+  - name: Explainability
+    tag: Explainability
   - name: Robustness
     tag: Robustness
+  - name: Deep Learning
+    tag: Deep Learning
   - name: Vision
     tag: Vision
   - name: NLP
