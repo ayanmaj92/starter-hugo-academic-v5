@@ -43,9 +43,9 @@ featured: false
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3630106.3659003
 url_code: https://github.com/ayanmaj92/carma-recourse/
 url_dataset:
-url_poster:
+url_poster: https://1drv.ms/b/s!ApsVPrVpG18ggfU6noKvVAaVf6UsYw?e=BvKmo7
 url_project:
-url_slides:
+url_slides: https://1drv.ms/b/s!ApsVPrVpG18ggfU7fNblRBPS9nDTLg?e=KcWdc4
 url_source:
 url_video:
 

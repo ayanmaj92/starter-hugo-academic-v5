@@ -51,7 +51,7 @@ url_code: https://github.com/ayanmaj92/fairall/
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://1drv.ms/b/s!ApsVPrVpG18ggfU8hCR-ANtn5TJGDw?e=Mwoh2w
 url_source:
 url_video:
 

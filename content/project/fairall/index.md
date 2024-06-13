@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/ayanmaj92/fairall/"
 url_pdf: "https://arxiv.org/pdf/2205.04790.pdf"
-url_slides: ""
+url_slides: "https://1drv.ms/b/s!ApsVPrVpG18ggfU8hCR-ANtn5TJGDw?e=Mwoh2w"
 url_video: ""
 
 # Slides (optional).
