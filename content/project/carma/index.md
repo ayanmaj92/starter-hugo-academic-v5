@@ -50,7 +50,9 @@ Using this practical approach, we show that CARMA can help scale up causal recou
 ## A. Limitations of existing causal recourse techniques
 For each individual with features $\mathbf{x}^F$ requesting recourse, causal algorithmic recourse finds the optimal action $\boldsymbol{a}^*$ solves the following optimization problem 
 $$
+\begin{align}
 \boldsymbol{a}^* \in \underset{\boldsymbol{a} \in \mathcal{A}\left(\mathbf{x}^{\mathrm{F}}\right)}{\arg \min } \operatorname{cost}\left(\boldsymbol{a} ; \mathbf{x}^{\mathrm{F}}\right) \text { subj.to } h\left(\mathbf{x}^{\mathrm{CF}}\left(\boldsymbol{a}, \mathbf{x}^{\mathrm{F}}\right)\right)=1
+\end{align}
 $$
 ## B. Amortizing causal recourse optimization with CARMA
 
