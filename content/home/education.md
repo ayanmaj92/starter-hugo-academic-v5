@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "PhD in Computer Science"
-  company = "Max Planck Institute for Software Systems"
+  company = "Max Planck Institute for Software Systems and Saarland University"
   company_url = "https://www.mpi-sws.org/"
   location = "Saarbrücken, DE"
   date_start = "2021-05-01"
   date_end = ""
-  description = """Doctoral student in computer science focused on fair and trustworthy machine learning systems for applications in decision making and high-stakes scenarios.
+  description = """Doctoral candidate in computer science focused on fair and trustworthy machine learning systems for applications in decision making and high-stakes scenarios.
    """
 
 

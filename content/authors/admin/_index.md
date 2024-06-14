@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Computer Science
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
 - name: Max Planck Institute for Software Systems
   url: "https://www.mpi-sws.org/"
+- name: Saarland University
+  url: "https://www.machinelearning.uni-saarland.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests broadly encompass applications of machine learning in decision-making and high-stakes scenarios while ensuring the fairness, explainability and robustness of such systems. 
@@ -31,7 +33,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Max Planck Institute for Software Systems, Saarbrücken, Germany
+    institution: Saarland University and Max Planck Institute for Software Systems, Saarbrücken, Germany
     year: (ongoing)
   - course: M.Sc. in Computer Science
     institution: Saarland University, Saarbrücken, Germany
@@ -79,7 +81,7 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://machinelearning.uni-saarland.de), Germany. I am jointly advised by Prof. [Isabel Valera](https://ivaleram.github.io/) and Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/).   
+I am a Ph.D. candidate in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://machinelearning.uni-saarland.de), Germany. I am jointly advised by Prof. [Isabel Valera](https://ivaleram.github.io/) and Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/).   
 
 My research broadly aims to bridge the practicality gap of responsible AI/ML, focusing on methods that study and improve the fairness, explainability, accountability and long-term impact of machine learning systems in the context of consequential societal decision-making tasks.
 
