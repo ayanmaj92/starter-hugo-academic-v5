@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Exploring Representational Alignment with Human Perception Using Identically Represented Inputs"
+title: "Do Invariances in Deep Neural Networks Align with Human Perception?"
 authors: 
 - Vedant Nanda
 - admin
@@ -11,28 +11,28 @@ authors:
 - Bradley C. Love
 - Adrian Weller
 
-date: 2021-10-30T15:48:21+01:00
-doi: ""
+date: 2023-06-26T15:48:21+01:00
+doi: "https://doi.org/10.1609/aaai.v37i8.26112"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-30T15:48:21+01:00
+publishDate: 2023-6-26T15:48:21+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CoRR:2111.14726"
-publication_short: ""
+publication: "AAAI Conference on Artificial Intelligence 2023"
+publication_short: "AAAI 2023"
 
-abstract: "We contribute to the study of the quality of learned representations. In many domains, an important evaluation criterion for safe and trustworthy deep learning is how well the invariances captured by representations of deep neural networks (DNNs) are shared with humans. We identify challenges in measuring these invariances. Prior works used gradient-based methods to generate identically represented inputs (IRIs), i.e., inputs which have similar representations (on a given layer) of a neural network. If these IRIs look similar to humans then a neural network's learned invariances are said to align with human perception. However, we show that prior studies on the alignment of invariances between DNNs and humans are `biased' by the specific loss function used to generate IRIs. We show how different loss functions can lead to different takeaways about a model's shared invariances with humans. We show that under an adversarial IRI generation process all models appear to have very little shared invariance with humans. We conduct an in-depth investigation of how different components of the deep learning pipeline contribute to learning models that have good alignment with human's invariances. We find that architectures with residual connections trained using a self-supervised contrastive loss with \ell_p ball adversarial data augmentation tend to learn the most human-like invariances."
+abstract: "An evaluation criterion for safe and trustworthy deep learning is how well the invariances captured by representations of deep neural networks (DNNs) are shared with humans. We identify challenges in measuring these invariances. Prior works used gradient-based methods to generate identically represented inputs (IRIs), ie, inputs which have identical representations (on a given layer) of a neural network, and thus capture invariances of a given network. One necessary criterion for a network's invariances to align with human perception is for its IRIs look 'similar' to humans. Prior works, however, have mixed takeaways; some argue that later layers of DNNs do not learn human-like invariances yet others seem to indicate otherwise. We argue that the loss function used to generate IRIs can heavily affect takeaways about invariances of the network and is the primary reason for these conflicting findings. We propose an adversarial regularizer on the IRI generation loss that finds IRIs that make any model appear to have very little shared invariance with humans. Based on this evidence, we argue that there is scope for improving models to have human-like invariances, and further, to have meaningful comparisons between models one should use IRIs generated using the regularizer-free loss. We then conduct an in-depth investigation of how different components (eg architectures, training losses, data augmentations) of the deep learning pipeline contribute to learning models that have good alignment with humans. We find that architectures with residual connections trained using a (self-supervised) contrastive loss with l_p ball adversarial data augmentation tend to learn invariances that are most aligned with humans."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [deep learning]
+tags: [deep learning, explainability]
 categories: []
 featured: false
 
@@ -44,8 +44,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2111.14726.pdf
-url_code:
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26112/25884
+url_code: github.com/nvedant07/Human-NN-Alignment
 url_dataset:
 url_poster:
 url_project:
