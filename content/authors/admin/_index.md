@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Computer Science
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: Saarland University and Max Planck Institute for Software Systems, Saarbrücken, Germany
     year: (ongoing)
   - course: M.Sc. in Computer Science

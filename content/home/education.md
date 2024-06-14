@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "PhD in Computer Science"
+  title = "Ph.D. in Computer Science"
   company = "Max Planck Institute for Software Systems and Saarland University"
   company_url = "https://www.mpi-sws.org/"
   location = "Saarbrücken, DE"
