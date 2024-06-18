@@ -21,7 +21,7 @@ date: 2024-07-02T17:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2024-06-19T17:32:41+01:00
+publishDate: 2024-06-16T17:32:41+01:00
 
 authors: 
 - admin
