@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Don't Throw it Away! The Utility of Unlabeled Data in Fair Decision Making"
+title: "Leveraging Unlabeled Data for Fair Decision Making"
 event: "Reading Group, Mila Quebec AI Center"
 event_url: ""
 location: "Mila, Quebec (virtual)"
