@@ -21,13 +21,13 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Spoken Language Systems: Saarland University"
   organization_url = "https://www.lsv.uni-saarland.de/"
-  title = "Statistical Natural Language Processing"
+  title = "Advanced Lecture on Statistical Natural Language Processing"
   #url = "https://www.lsv.uni-saarland.de/snlp19/"
   url = "https://teaching.lsv.uni-saarland.de/snlp/tutors/"
   #certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
   date_start = "2019-04-01"
   date_end = "2019-09-01"
-  description = ""
+  description = "Tutor tasked with grading assignments, exams, and leading tutorial sessions."
 
 [[item]]
   organization = "Max Planck Institute for Software Systems, Saarland University"
@@ -37,8 +37,16 @@ date_format = "Jan 2006"
   #certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
   date_start = "2021-04-15"
   date_end = "2021-07-08"
-  description = ""
+  description = "Tutor for the seminar tasked with grading students' presentations and assignments, guiding doubt-clearing sessions."
 
-
+[[item]]
+  organization = "Saarland University"
+  organization_url = "https://machinelearning.uni-saarland.de/"
+  title = "Core Lecture on Machine Learning"
+  url = "https://cms.sic.saarland/ml24/"
+  #certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
+  date_start = "2024-04-01"
+  date_end = "2024-08-31"
+  description = "Teaching assistant tasked with setting up the course project, assignment sheets, and the final exams."
 
 +++
