@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Ph.D. Research Intern"
+  company = "Trustworthy Technology and Engineering Laboratory, Huawei Research"
+  company_url = "https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory"
+  location = "Munich, DE"
+  date_start = "2024-08-15"
+  date_end = "2025-02-14"
+  description = """ Ph.D. research intern in the AI governance team, focusing on investigating AI strategies, policies, and trustworthiness within the European context, with technical research on the operationalization and deployment of responsible large-scale foundation models in AI. 
+   """
+
+[[experience]]
   title = "Research assistant and Master's thesis student"
   company = "Max Planck Institute for Software Systems"
   company_url = "https://www.mpi-sws.org/"
