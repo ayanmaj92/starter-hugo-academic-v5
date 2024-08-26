@@ -67,7 +67,8 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:130pt; width:100%;">
 
-- We will be presenting CARMA as a poster at the [European Workshop on Algorithmic Fairness](https://2024.ewaf.org/home) in Mainz!
+- Joined Huawei Munich Research Center's [Trustworthy Technology and Engineering Lab](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory) as a Ph.D. research intern!
+- Presented CARMA as a poster at the [European Workshop on Algorithmic Fairness](https://2024.ewaf.org/home) in Mainz!
 - Our latest [work](https://doi.org/https://doi.org/10.1145/3630106.3659003) on scaling up the generation of causal algorithmic recourse recommendations was accepted at ACM FAccT 2024!
 - Recently reviewed for ICML 2024, ICLR 2024, FAccT 2024, and JMLR!
 </div>
