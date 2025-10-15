@@ -67,8 +67,7 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:130pt; width:100%;">
 
-- Joined Huawei Munich Research Center's [Trustworthy Technology and Engineering Lab](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory) as a Ph.D. research intern!
-- Presented CARMA as a poster at the [European Workshop on Algorithmic Fairness](https://2024.ewaf.org/home) in Mainz!
-- Our latest [work](https://doi.org/https://doi.org/10.1145/3630106.3659003) on scaling up the generation of causal algorithmic recourse recommendations was accepted at ACM FAccT 2024!
-- Recently reviewed for ICML 2024, ICLR 2024, FAccT 2024, and JMLR!
+- Preprint alert! 🚨 My internship work analyzing the capabilities of LLMs in detecting demographic-targeted social biases is live on Arxiv! Check it out [here](https://arxiv.org/abs/2510.04641).
+- Preprint alert! 🚨 Our work on operationalizing disparities in non-binary treatment decisions is live on Arxiv! Check it out [here](https://arxiv.org/abs/2503.22454).
+- Interned at Huawei Munich Research Center's [Trustworthy Technology and Engineering Lab](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory) as a Ph.D. research intern!
 </div>
