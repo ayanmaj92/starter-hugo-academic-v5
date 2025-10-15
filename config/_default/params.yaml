@@ -36,14 +36,6 @@ directions:
 office_hours:
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/ayanmaj1992'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'https://join.skype.com/invite/aOTQEvkYKwYV'
   - icon: linkedin
     icon_pack: fab
     name: Connect
