@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="overflow: auto; height:130pt; width:100%;">
+<div style="overflow: auto; height:180pt; width:100%;">
 
 - New publication! 🎉 Our work on operationalizing disparities in non-binary treatment decisions has been accepted in the AAAI 2026 AI For Social Impact Track! Check it out [here](https://arxiv.org/abs/2503.22454).
 - Preprint alert! 🚨 My internship work analyzing the capabilities of LLMs in detecting demographic-targeted social biases is live on Arxiv! Check it out [here](https://arxiv.org/abs/2510.04641).
