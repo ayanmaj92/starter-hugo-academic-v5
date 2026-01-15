@@ -62,7 +62,7 @@ For prompting, we also design a detailed detection policy that we use.
 
 For fine-tuning, we also analyze the impact of leveraging a balanced loss to tackle class imbalances.
 $$
-\mathcal{L}_{\text{FT}}=-\frac{1}{9 N} \sum_{i=1}^N \sum_{m=1}^9 w_i\left[\alpha_m Y_i^m \log \sigma_m\left(\mathcal{M}_\phi\left(d_i\right)\right)+\left(1-Y_i^m\right) \log \left(1-\sigma_m\left(\mathcal{M}_\phi\left(d_i\right)\right)\right)\right]
+\mathcal{L}_{\text{FT}} = -\frac{1}{9N} \sum_{i=1}^{N} \sum_{m=1}^{9} w_i \left[ \alpha_m Y_i^m \log \sigma_m(\mathcal{M}_\phi(d_i)) + (1 - Y_i^m) \log (1 - \sigma_m(\mathcal{M}_\phi(d_i))) \right]
 $$
 ## C. Evaluation Metrics
 For detection performance, we analyze binary (biased vs unbiased) detection using $F_1$, FPR, and FNR. For multi-label performance (how well models detect exact bias types), we use Exact match ratio, Hamming loss, macro and micro $F_1$ scores. Finally, we also measure disparities in detection performance for biases targeting the different demographics. We wish to analyze if models disproportionately perform worse for biases that target specific demographics or for multi-targeted biases. If $\mathcal{P}$ denotes either FPR or FNR, and $m, m'$ two demographic axes, we design the **per-demographic disparity measure**:
