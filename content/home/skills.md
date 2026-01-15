@@ -27,11 +27,11 @@ feature:
 - description: Coursework, research projects
   icon: balance-scale
   icon_pack: fas
-  name: Fair/Explainable/Robust ML
-- icon: file-image
+  name: Trustworthy & Safe AI
+- icon: robot
   icon_pack: fas
-  name: Vision/NLP
-  description: "Experience in coursework and applied research projects"
+  name: GenAI & Multimodal
+  description: "Applied research projects and industrial experience"
 - icon : "chart-pie"
   icon_pack : "fas"
   name : "Analytics & Visualization"
