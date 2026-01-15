@@ -74,7 +74,7 @@ $$
 Moreover, we measure if the models make systematically more errors in detecting biases that specifically target multiple axes simultaneously (e.g., gender+race) relative to biases that target each constituent axis (e.g., only gender or race).
 
 $$
-\mathcal{G}_{\mathcal{P}}^{\{m, m' \}}=\max_{x \in \{m, m' \}}\left|\mathcal{P}_{\{m, m' \}}-\mathcal{P}_x \right|
+\mathcal{G}_{\mathcal{P}}^{\{m, m'\}} = \max_{x \in \{m, m'\}} \left| \mathcal{P}_{\{m, m'\}} - \mathcal{P}_x \right|
 $$
 
 ## D. Key Takeaways
