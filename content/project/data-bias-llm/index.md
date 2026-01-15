@@ -60,10 +60,8 @@ We consider zero-shot prompting and in-context-learning-based prompting of large
 For prompting, we also design a detailed detection policy that we use.
 ![Data bias detection policy](policy.png "Data bias detection policy")
 
-For fine-tuning, we also analyze the impact of leveraging a balanced loss to tackle class imbalances.
-$$
-\mathcal{L}_{FT} = -\frac{1}{9N} \sum_{i=1}^{N} \sum_{m=1}^{9} w_i \left[ \alpha_m Y_i^m \log \sigma_m(\mathcal{M}_\phi(d_i)) + (1 - Y_i^m) \log (1 - \sigma_m(\mathcal{M}_\phi(d_i))) \right]
-$$
+For fine-tuning, we also analyze the impact of leveraging a balanced loss to tackle class imbalances. We perform training using HuggingFace transformers package.
+
 ## C. Evaluation Metrics
 For detection performance, we analyze binary (biased vs unbiased) detection using $F_1$, FPR, and FNR. For multi-label performance (how well models detect exact bias types), we use Exact match ratio, Hamming loss, macro and micro $F_1$ scores. Finally, we also measure disparities in detection performance for biases targeting the different demographics. We wish to analyze if models disproportionately perform worse for biases that target specific demographics or for multi-targeted biases. If $\mathcal{P}$ denotes either FPR or FNR, and $m, m'$ two demographic axes, we design the **per-demographic disparity measure**:
 
@@ -71,11 +69,8 @@ $$
 \Delta_{\mathcal{P}} = \max _{m,m'} \left| \mathcal{P}_m - \mathcal{P}_{m'} \right|
 $$
 
-Moreover, we measure if the models make systematically more errors in detecting biases that specifically target multiple axes simultaneously (e.g., gender+race) relative to biases that target each constituent axis (e.g., only gender or race).
+We also measure if the models make systematically more errors in detecting biases that specifically target multiple axes simultaneously (e.g., gender+race) relative to biases that target each constituent axis (e.g., only gender or race). Check out our paper for more details.
 
-$$
-\mathcal{G}_{\mathcal{P}}^{\{m, m'\}} = \max_{x \in \{m, m'\}} \left| \mathcal{P}_{\{m, m'\}} - \mathcal{P}_x \right|
-$$
 
 ## D. Key Takeaways
 ![Overall results](table_overall.png "Overall Results")
