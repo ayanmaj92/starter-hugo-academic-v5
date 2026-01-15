@@ -23,7 +23,7 @@ feature:
   description: 5+ years experience building scalable research pipelines.
 
 - name: Large Language & Vision-Language Models
-  icon: fa-robot
+  icon: robot
   icon_pack: fas
   description: Expertise in LLM/VLM inference, prompt optimization, and safety-critical applications.
 
