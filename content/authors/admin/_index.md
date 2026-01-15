@@ -23,11 +23,11 @@ organizations:
 bio: My research interests broadly encompass applications of machine learning in decision-making and high-stakes scenarios while ensuring the fairness, explainability and robustness of such systems. 
 
 interests:
-- Machine Learning
+- AI Safety
+- LLMs & VLMs
 - Fairness
 - Explainability
 - Causality
-- Accountability
  
 
 education:
