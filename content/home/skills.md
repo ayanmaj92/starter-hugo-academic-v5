@@ -22,7 +22,7 @@ feature:
   icon_pack: fas
   description: 5+ years experience building scalable research pipelines.
 
-- name: Large Language & Vision-Language Models
+- name: General-Purpose AI Models
   icon: robot
   icon_pack: fas
   description: Expertise in LLM/VLM inference, prompt optimization, and safety-critical applications.
