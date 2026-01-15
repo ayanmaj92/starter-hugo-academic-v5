@@ -22,8 +22,8 @@ feature:
   icon_pack: fas
   description: 5+ years experience building scalable research pipelines.
 
-- name: Generative AI & Multimodal
-  icon: magic
+- name: Large Language & Vision-Language Models
+  icon: fa-robot
   icon_pack: fas
   description: Expertise in LLM/VLM inference, prompt optimization, and safety-critical applications.
 
