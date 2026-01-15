@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 feature:
-- name: Python & Research Engineering
+- name: Coding & Engineering
   icon: code
   icon_pack: fas
-  description: 5+ years experience building scalable research pipelines and production-ready code.
+  description: 5+ years experience building scalable research pipelines.
 
 - name: Generative AI & Multimodal
   icon: magic
   icon_pack: fas
-  description: Expertise in LLM/VLM inference, prompt optimization, and safety-critical multimodal applications.
+  description: Expertise in LLM/VLM inference, prompt optimization, and safety-critical applications.
 
 - name: Trustworthy & Responsible AI
   icon: shield-alt
@@ -40,7 +40,7 @@ feature:
 - name: Data Science & Analytics
   icon: chart-bar
   icon_pack: fas
-  description: Advanced statistical analysis and visualization of large-scale datasets.
+  description: Advanced statistical analysis and visualization of large-scale real-world data.
 
 - name: AI Safety & Moderation
   icon: user-check
