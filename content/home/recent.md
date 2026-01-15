@@ -67,7 +67,7 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:130pt; width:100%;">
 
+- New publication! 🎉 Our work on operationalizing disparities in non-binary treatment decisions has been accepted in the AAAI 2026 AI For Social Impact Track! Check it out [here](https://arxiv.org/abs/2503.22454).
 - Preprint alert! 🚨 My internship work analyzing the capabilities of LLMs in detecting demographic-targeted social biases is live on Arxiv! Check it out [here](https://arxiv.org/abs/2510.04641).
-- Preprint alert! 🚨 Our work on operationalizing disparities in non-binary treatment decisions is live on Arxiv! Check it out [here](https://arxiv.org/abs/2503.22454).
 - Interned at Huawei Munich Research Center's [Trustworthy Technology and Engineering Lab](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory) as a Ph.D. research intern!
 </div>
