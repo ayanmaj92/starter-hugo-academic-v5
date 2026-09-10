@@ -37,6 +37,8 @@ content:
     tag: Deep Learning
   - name: Vision
     tag: Vision
+  - name: Safety
+    tag: Safety
   - name: NLP
     tag: NLP
   - name: Data Science

@@ -4,7 +4,7 @@
 title: "ModerationBench: Can Foundation Models Moderate Online Content?"
 summary: "A benchmark and evaluation framework comparing instruction- vs. example-driven VLM approaches for automated content moderation policy operationalization."
 authors: [Ayan Majumdar]
-tags: ["Fairness", "NLP", "Deep Learning", "Vision"]
+tags: ["Safety", "NLP", "Deep Learning", "Vision"]
 categories: []
 date: 2026-09-01T00:00:00+01:00
 
