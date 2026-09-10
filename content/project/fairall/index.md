@@ -4,7 +4,7 @@
 title: "FairAll: Fair Decisions With Unlabeled Data"
 summary: "We explore the helpfulness of unlabeled data for fair, optimal and stable decision-making in societal settings."
 authors: [Ayan Majumdar]
-tags: ["Fairness", "Generative Models", "Deep Learning"]
+tags: ["Fairness", "Safety", "Generative Models", "Deep Learning"]
 categories: []
 date: 2022-03-01T10:44:48+01:00
 

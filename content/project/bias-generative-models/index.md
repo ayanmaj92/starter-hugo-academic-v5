@@ -4,7 +4,7 @@
 title: "Bias in Generative Models"
 summary: "This project explores the case for potential bias in generative models such as variational autoencoders. The project also briefly looks at ways to mitigate such bias."
 authors: [Ayan Majumdar]
-tags: ["Deep Learning", "Generative Models", "Fairness", "Vision"]
+tags: ["Deep Learning", "Generative Models", "Fairness", "Safety", "Vision"]
 categories: []
 date: 2020-11-01T10:44:48+01:00
 

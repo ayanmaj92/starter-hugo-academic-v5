@@ -4,7 +4,7 @@
 title: "Generating Counterfactuals for Causal Fairness"
 summary: "Project that was conducted as part of my Master's thesis to explore the application of generative models to compute counterfactuals for fairness."
 authors: [Ayan Majumdar]
-tags: ["Deep Learning", "Generative Models", "Causality", "Fairness",]
+tags: ["Deep Learning", "Generative Models", "Causality", "Fairness", "Safety"]
 categories: []
 date: 2020-11-02T09:54:04+01:00
 

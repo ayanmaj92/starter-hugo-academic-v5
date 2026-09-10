@@ -4,7 +4,7 @@
 title: "CARMA: Causal Algorithmic Recourse with (Neural) Model-based Amortization"
 summary: "We explore improving the practicality of providing causal recourse explanations through a novel neural network model-based automation framework."
 authors: [Ayan Majumdar]
-tags: ["Explainability", "Generative Models", "Deep Learning", "Causality"]
+tags: ["Explainability", "Safety", "Generative Models", "Deep Learning", "Causality"]
 categories: []
 date: 2024-06-10T10:44:48+01:00
 

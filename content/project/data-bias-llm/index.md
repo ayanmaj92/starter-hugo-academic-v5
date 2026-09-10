@@ -4,7 +4,7 @@
 title: "Evaluating LLMs for Demographic-Targeted Social Bias Detection: A Comprehensive Benchmark Study"
 summary: "We conduct a comprehensive benchmark study evaluating LLMs for demographic-targeted social bias detection in raw text data, revealing that while certain configurations show promise for scale, significant performance gaps persist across complex social categories."
 authors: [Ayan Majumdar]
-tags: ["Fairness", "Generative Models", "Deep Learning", "NLP"]
+tags: ["Fairness", "Safety", "Generative Models", "Deep Learning", "NLP"]
 categories: []
 date: 2025-02-10T10:44:48+01:00
 
