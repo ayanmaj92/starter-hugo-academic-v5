@@ -67,7 +67,12 @@ subtitle = ""
 +++
 <div style="overflow: auto; height:180pt; width:100%;">
 
+- Preprint alert! 🚨 New work on whether foundation models can moderate online content — comparing instruction- vs. example-driven approaches. Check it out [here](https://arxiv.org/abs/2609.10410).
+- New publication! 🎉 Our work on revisiting personalization in algorithmic recourse has been accepted at ACM FAccT 2026! Check it out [here](https://arxiv.org/abs/2604.08030).
+- New publication! 🎉 Our benchmark study on evaluating LLMs for detecting demographic-targeted social bias has been accepted at IAAI @ LREC 2026! Check it out [here](https://arxiv.org/abs/2510.04641).
+<!--
 - New publication! 🎉 Our work on operationalizing disparities in non-binary treatment decisions has been accepted in the AAAI 2026 AI For Social Impact Track! Check it out [here](https://arxiv.org/abs/2503.22454).
 - Preprint alert! 🚨 My internship work analyzing the capabilities of LLMs in detecting demographic-targeted social biases is live on Arxiv! Check it out [here](https://arxiv.org/abs/2510.04641).
 - Interned at Huawei Munich Research Center's [Trustworthy Technology and Engineering Lab](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory) as a Ph.D. research intern!
+-->
 </div>
