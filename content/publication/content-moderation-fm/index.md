@@ -44,7 +44,7 @@ url_dataset:
 url_poster:
 url_project: https://moderation-bench.github.io/
 url_slides:
-url_source: https://arxiv.org/abs/2609.10410
+url_source:
 url_video:
 
 # Featured image
