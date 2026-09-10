@@ -56,7 +56,8 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: []
+projects:
+- moderation-bench
 
 # Slides (optional).
 slides: ""
