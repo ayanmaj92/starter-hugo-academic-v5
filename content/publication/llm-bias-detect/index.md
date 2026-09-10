@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Evaluating LLMs for Demographic-Targeted Social Bias Detection: A Comprehensive Benchmark Study"
+title: "Evaluating LLMs for Detecting Demographic-Targeted Social Bias: A Comprehensive Benchmark Study"
 authors:
 - admin
 - Feihao Chen
@@ -10,28 +10,28 @@ authors:
 
 
 
-date: 2025-10-14T15:48:21+01:00
-doi: "https://doi.org/10.48550/arXiv.2510.04641"
+date: 2026-05-20T15:48:21+01:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-10-14T15:48:21+01:00
+publishDate: 2026-05-20T15:48:21+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: "Arxiv"
+publication: "Proceedings of Identity-Aware AI (IAAI) @ LREC, 2026"
+publication_short: "IAAI @ LREC 2026"
 
 abstract: "Large-scale web-scraped text corpora used to train general-purpose AI models often contain harmful demographic-targeted social biases, creating a regulatory need for data auditing and developing scalable bias-detection methods. Although prior work has investigated biases in text datasets and related detection methods, these studies remain narrow in scope. They typically focus on a single content type (e.g., hate speech), cover limited demographic axes, overlook biases affecting multiple demographics simultaneously, and analyze limited techniques. Consequently, practitioners lack a holistic understanding of the strengths and limitations of recent large language models (LLMs) for automated bias detection. In this study, we present a comprehensive evaluation framework aimed at English texts to assess the ability of LLMs in detecting demographic-targeted social biases. To align with regulatory requirements, we frame bias detection as a multi-label task using a demographic-focused taxonomy. We then conduct a systematic evaluation with models across scales and techniques, including prompting, in-context learning, and fine-tuning. Using twelve datasets spanning diverse content types and demographics, our study demonstrates the promise of fine-tuned smaller models for scalable detection. However, our analyses also expose persistent gaps across demographic axes and multi-demographic targeted biases, underscoring the need for more effective and scalable auditing frameworks."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [llm,fairness]
+tags: [llm, fairness, bias, benchmark, nlp]
 categories: []
 featured: false
 
@@ -44,12 +44,12 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/2510.04641
-url_code: 
+url_code:
 url_dataset:
-url_poster: 
+url_poster:
 url_project:
-url_slides: 
-url_source:
+url_slides:
+url_source: https://arxiv.org/abs/2510.04641
 url_video:
 
 # Featured image
