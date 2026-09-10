@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="overflow: auto; height:180pt; width:100%;">
+<div style="overflow: auto; height:280pt; width:100%;">
 
 - Preprint alert! 🚨 New work on whether foundation models can moderate online content — comparing instruction- vs. example-driven approaches. Check it out [here](https://arxiv.org/abs/2609.10410).
 - New publication! 🎉 Our work on revisiting personalization in algorithmic recourse has been accepted at ACM FAccT 2026! Check it out [here](https://arxiv.org/abs/2604.08030).
